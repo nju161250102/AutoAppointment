@@ -1,5 +1,5 @@
 # AutoAppointment
-> Note: This script is for learning and exchange, and all use of the consequences of your own!
+> Note: This script is only available for private study. All the consequences caused are undertaken by its own users.
 
 ### Usage
 
