@@ -97,6 +97,6 @@ def everyday_job():
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     # 每天7：01执行一次登录操作
-    sched.add_job(everyday_job, 'cron', hour="7", minute="01")
+    sched.add_job(everyday_job, 'cron', hour=7, minute=1)
     logging.info("脚本开始执行")
     sched.start()
